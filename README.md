@@ -2,6 +2,8 @@
 
 # Swin Transformer for MRI-based Brain Age Estimation
 
+Authors: Pradyumna Rao, Manasa Mangipudi (Rutgers University, Dept. of ECE)
+
 This project implements a SWIN Transformer based approach for estimating brain age from MRI scans, achieving superior performance compared to traditional CNN architectures. The full paper is available as a PDF file in this repo.
 
 ## Overview
