@@ -2,7 +2,7 @@
 
 # Vision Transformer for MRI-based Brain Age Estimation
 
-This project implements a Vision Transformer (ViT) based approach for estimating brain age from MRI scans, achieving superior performance compared to traditional CNN architectures.
+This project implements a SWIN Transformer based approach for estimating brain age from MRI scans, achieving superior performance compared to traditional CNN architectures.
 
 ## Overview
 
